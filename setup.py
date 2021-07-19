@@ -26,8 +26,8 @@ classifiers = [
 ]
 setup(
     name="django-model-snapshot-diff",
-    version="1.0.0",
-    description="Declarative model lifecycle hooks.",
+    version="1.0.1",
+    description="Django model snapshot difference",
     author="xelaxela13",
     author_email="xelaxela13@gmail.com",
     packages=["django_model_snapshot_diff"],
